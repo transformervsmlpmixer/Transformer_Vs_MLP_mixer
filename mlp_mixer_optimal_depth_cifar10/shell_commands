@@ -1,0 +1,3 @@
+cd ~/NIPS_Experiments/mlp_mixer_optimal_depth && sbatch --array=1-21 ./meta_trainer.sh
+srun --gres=gpu:2 --mem=8g --pty $SHELL && cd ~/NIPS_Experiments/mlp_mixer_optimal_depth
+sbatch --array=1-51 ./meta_trainer.sh

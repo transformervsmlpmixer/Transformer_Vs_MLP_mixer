@@ -1,0 +1,11 @@
+comet_ml==3.28.3
+dill==0.3.5.1
+einops==0.4.1
+matplotlib==2.2.2
+numpy==1.18.4
+pandas==0.23.1
+pytorch_lightning==1.2.1
+PyYAML==6.0
+setuptools==39.0.1
+torch==1.5.0
+torchvision==0.6.0
