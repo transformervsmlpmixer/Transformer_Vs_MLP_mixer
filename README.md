@@ -1,8 +1,9 @@
-Results on the CIFAR10 CIFAR100 and the SVHN datasets, 
-we can see that the optimal ratio is always greater than 1 
+Results for mixer on the CIFAR10 CIFAR100 and the SVHN datasets, 
+we can see that the optimal ratio is always greater > 1 
 as claimed.
 
-[We choose smaller budgets for easier datasets to prevent overfit]
+We choose smaller budgets for easier datasets to prevent overfit.
+
 
 ![different budgets](https://user-images.githubusercontent.com/110481768/182423353-6045e81f-8198-486d-86f3-a50d943f6351.png)
 
