@@ -2,8 +2,6 @@ Results on the CIFAR10 CIFAR100 and the SVHN datasets,
 we can see that the optimal ratio is always greater than 1 
 as claimed.  
 
-[Disclaimer: the results on the SVHN dataset have somewhat larger variance and possibly suffer from overfit]
-
 ![different budgets](https://user-images.githubusercontent.com/110481768/182423353-6045e81f-8198-486d-86f3-a50d943f6351.png)
 
 
