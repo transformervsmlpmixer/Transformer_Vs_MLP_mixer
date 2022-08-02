@@ -1,4 +1,4 @@
-**Results for mixer on the CIFAR10 CIFAR100 and the SVHN datasets 
+**Attached are results for mixer on the CIFAR10 CIFAR100 and the SVHN datasets 
 we can see that the optimal ratio is always greater > 1 
 as claimed.**
 
